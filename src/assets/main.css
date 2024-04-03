@@ -1,0 +1,44 @@
+*{
+  font-family: Verdana, sans-serif;
+}
+body{
+  background-color: #222;
+  /* background: #04AA6D; */
+  color: white;
+}
+h1{
+  text-align: center;
+}
+button{
+  font-size: 1rem;
+}
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+.warn{
+  color: red;
+  margin: 0px 0px 20px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+button{
+  cursor: pointer;
+  padding: 3px 7px;
+  border-radius: 5px;
+  border: none;
+  background: #04AA6D;
+  color: white;
+  margin: 5px 0;
+}
+input{
+  padding: 5px 5px;
+}

@@ -1,0 +1,414 @@
+{
+  "user": [
+    {
+      "id": "51a0",
+      "name": "Akshay",
+      "email": "agohel1@gmail.com",
+      "password": "Akshay321",
+      "contact": "6543213274",
+      "tasks": [
+        {
+          "title": "sfdsfsfsf",
+          "description": "ssfsfsfsff",
+          "status": "Completed",
+          "taskId": 74831848
+        },
+        {
+          "title": "sdfsfsdfsdfs",
+          "description": "sdfsfgsfsdfdfsf",
+          "status": "Todo",
+          "taskId": 61540813
+        },
+        {
+          "title": "sffgjghjghjgdgsfsdfgsdf",
+          "description": "dhgfgjhfjfjjhfhfhh",
+          "status": "Completed",
+          "taskId": 5510904
+        },
+        {
+          "title": "hfgdhfhdsfgsdfsdfsfs",
+          "description": "gfhnfghhfhfghfghfgh",
+          "status": "Todo",
+          "taskId": 63218548
+        },
+        {
+          "title": "hfghfghfg",
+          "description": "hfhfghfhfh",
+          "status": "Completed",
+          "taskId": 68865980
+        },
+        {
+          "title": "fghfghfhfghfg",
+          "description": "hfghfghfhfghfh",
+          "status": "Todo",
+          "taskId": 70033188
+        },
+        {
+          "title": "sggsdfsdfsdfsdfs",
+          "description": "sfsfsdfsdfsfs",
+          "status": "Todo",
+          "taskId": 77267977
+        },
+        {
+          "title": "jgkhjghjgjjghj",
+          "description": "ghjgjghjghj",
+          "status": "Todo",
+          "taskId": 75618061
+        },
+        {
+          "title": "werwerwrwrwrs",
+          "description": "sfsfsfsdfsf",
+          "status": "Todo",
+          "taskId": 64147873
+        },
+        {
+          "title": "etetertrtet",
+          "description": "ettrtertert",
+          "status": "Todo",
+          "taskId": 36372747
+        },
+        {
+          "title": "sfhfhfghfh",
+          "description": "fhfghfhghfhfgh",
+          "status": "Todo",
+          "taskId": 23586103
+        },
+        {
+          "title": "wqrwrwrwr",
+          "description": "wrwrwerwerwer",
+          "status": "Todo",
+          "taskId": 91802520
+        },
+        {
+          "title": "asdffsfs",
+          "description": "fsdfsdfsfdf",
+          "status": "Pending",
+          "taskId": 88262584
+        },
+        {
+          "title": "sfsdfsdfsd",
+          "description": "fsfsfsfsfsdfsd",
+          "status": "Pending",
+          "taskId": 93964612
+        },
+        {
+          "title": "sfsdfsdfsd",
+          "description": "fsfsfsdfdff",
+          "status": "Pending",
+          "taskId": 81377145
+        },
+        {
+          "title": "sfsdfsfsfsf",
+          "description": "sfsfsfsfsfsf",
+          "status": "Pending",
+          "taskId": 4737343
+        },
+        {
+          "title": "sfsfsdfsdfsf",
+          "description": "sfsfsdfsf",
+          "status": "Pending",
+          "taskId": 82687450
+        },
+        {
+          "title": "iuyuiyiyiyuiyi",
+          "description": "yiyuiyuiyiyi",
+          "status": "Inprogress",
+          "taskId": 72262113
+        },
+        {
+          "title": "wefrwefsdfsfsfs",
+          "description": "dfsfsfsfsdf",
+          "status": "Inprogress",
+          "taskId": 48033953
+        },
+        {
+          "title": "sfsdfsfsfsdfsdfsdf",
+          "description": "wsgthtyitityj",
+          "status": "Inprogress",
+          "taskId": 48286720
+        },
+        {
+          "title": "rwrwerwfsdfv",
+          "description": "sgerthfgjhtifgbvdsrgegrg",
+          "status": "Inprogress",
+          "taskId": 53719777
+        },
+        {
+          "title": "sfsfsfsfs",
+          "description": "fsfsfsfsdfdfs",
+          "status": "Completed",
+          "taskId": 28552910
+        },
+        {
+          "title": "dfjhfgjghjkghjghjvjgj",
+          "description": "gjgjgjgnmgfjhfhfhfghfg",
+          "status": "Completed",
+          "taskId": 17697679
+        },
+        {
+          "title": "sdfgsfsdfsf",
+          "description": "sfsfsdfsdfsdfs",
+          "status": "Completed",
+          "taskId": 92564410
+        },
+        {
+          "title": "gzdghdgdfgdfgdfg",
+          "description": "dgdfgdfgdfgfdgfdg",
+          "status": "Todo",
+          "taskId": 43956061
+        }
+      ]
+    },
+    {
+      "id": "fe34",
+      "email": "shiv@gmail.com",
+      "password": "Shiv3211",
+      "contact": "3213216544",
+      "name": "shiv",
+      "tasks": [
+        {
+          "title": "task2",
+          "description": "task2 efsdfsdfff",
+          "status": "Completed",
+          "taskId": 62772065
+        }
+      ]
+    },
+    {
+      "id": "6d30",
+      "email": "y@gmail.com",
+      "password": "Yatin6969",
+      "contact": "3265497841",
+      "name": "Yatin",
+      "tasks": [
+        {
+          "title": "task2",
+          "description": "task2",
+          "status": "Pending",
+          "taskId": 21998841
+        }
+      ]
+    },
+    {
+      "id": "b274",
+      "name": "yash",
+      "email": "yash1@gmail.com",
+      "password": "Yash9877",
+      "contact": "9876548524",
+      "tasks": [
+        {
+          "title": "SFSFSFF",
+          "description": "SFSFSFSDFFSDF",
+          "status": "Todo",
+          "taskId": 85045440
+        },
+        {
+          "title": "dfggggggggggggggg",
+          "description": "gggggggggggggggggggggg",
+          "status": "Inprogress",
+          "taskId": 90350865
+        },
+        {
+          "title": "ggggggggggggggggggggg",
+          "description": "gggghhhhhhhhhhhhhhhhhhhhh",
+          "status": "Pending",
+          "taskId": 68775483
+        },
+        {
+          "title": "jjjjjjjjjjjjjjjjjjjjjjjjj",
+          "description": "jjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+          "status": "Pending",
+          "taskId": 37830665
+        },
+        {
+          "title": "fghfghfghfhfghfh",
+          "description": "fghfghfghfgh",
+          "status": "Todo",
+          "taskId": 57394069
+        },
+        {
+          "title": "fdsfdgdsfg",
+          "description": "dgdgdgdgdfg",
+          "status": "Todo",
+          "taskId": 50715195
+        },
+        {
+          "title": "waqdagdgfggg",
+          "description": "ggdfgdgdgg",
+          "status": "Inprogress",
+          "taskId": 12543700
+        },
+        {
+          "title": "rwerwererwrshffh",
+          "description": "rwerwrwer",
+          "status": "Completed",
+          "taskId": 17795615
+        },
+        {
+          "title": "fhfhfhghh",
+          "description": "fghfghfghfghgh",
+          "status": "Completed",
+          "taskId": 78504510
+        },
+        {
+          "title": "fghhghfhg",
+          "description": "fghghhfh",
+          "status": "Inprogress",
+          "taskId": 65899162
+        },
+        {
+          "title": "rrthrh",
+          "description": "fghghghhgh",
+          "status": "Todo",
+          "taskId": 60304700
+        },
+        {
+          "title": "fghfghfhghfhfh",
+          "description": "fhfhfhfh",
+          "status": "Todo",
+          "taskId": 45900845
+        },
+        {
+          "title": "ttetet",
+          "description": "eteterttr",
+          "status": "Inprogress",
+          "taskId": 91482043
+        },
+        {
+          "title": "eetsfwsfs",
+          "description": "fsfsdfsdfsdf",
+          "status": "Inprogress",
+          "taskId": 48460819
+        },
+        {
+          "title": "i8hyihuii",
+          "description": "hihuihuihui",
+          "status": "Pending",
+          "taskId": 38032416
+        }
+      ]
+    },
+    {
+      "id": "7111",
+      "email": "girl1@gmail.com",
+      "password": "Girl@3211",
+      "contact": "3213213211",
+      "name": "girl",
+      "tasks": []
+    },
+    {
+      "id": "4c23",
+      "name": "Yash Patel",
+      "email": "hnp@gmail.com",
+      "password": "Atma@2022",
+      "contact": "8140987779",
+      "tasks": [
+        {
+          "title": "task2",
+          "description": "sdfsdfsdfds",
+          "status": "Todo",
+          "taskId": 83097669
+        },
+        {
+          "title": "asdasdasd",
+          "description": "asdasdas",
+          "status": "Todo",
+          "taskId": 30147800
+        },
+        {
+          "title": "asdasdasd asdASdasd",
+          "description": "asdasda asdasdasd",
+          "status": "Todo",
+          "taskId": 24639113
+        },
+        {
+          "title": "asdasdsadasddasd",
+          "description": "dsaasda sadasd",
+          "status": "Pending",
+          "taskId": 26527824
+        },
+        {
+          "title": "asdas asasdasd gfbhfghfg",
+          "description": "hfghfhfhgf hghgfh",
+          "status": "Pending",
+          "taskId": 76661190
+        },
+        {
+          "title": "fghfghf ghfgh",
+          "description": "ghfghfghf fgh",
+          "status": "Pending",
+          "taskId": 8877200
+        },
+        {
+          "title": "gffdgdg",
+          "description": "dgdfgfdgf",
+          "status": "Pending",
+          "taskId": 86574673
+        },
+        {
+          "title": "dgfdg5454354",
+          "description": "dfgdfgf fghdfg",
+          "status": "Pending",
+          "taskId": 6412482
+        },
+        {
+          "title": "gdfg545455",
+          "description": "dfgdfg dfgdfgdfg",
+          "status": "Inprogress",
+          "taskId": 64462857
+        },
+        {
+          "title": "dfgdfgdfdfg dgdfg",
+          "description": "dfgdfgfdg dfgfdgdfg",
+          "status": "Inprogress",
+          "taskId": 27391635
+        }
+      ]
+    },
+    {
+      "id": "e9a1",
+      "email": "jeel+3@gmail.com",
+      "password": "Jeel3211",
+      "contact": "6542316548",
+      "name": "jeel",
+      "tasks": [
+        {
+          "title": "fsdfsfdf",
+          "description": "fsfsdfdf",
+          "status": "Todo",
+          "taskId": 87420717
+        },
+        {
+          "title": "sfsdfff",
+          "description": "sfsdfsfdfsf",
+          "status": "Inprogress",
+          "taskId": 54994700
+        },
+        {
+          "title": "dhggggdgg",
+          "description": "dfgdgdfgdgdfg",
+          "status": "Todo",
+          "taskId": 75273711
+        },
+        {
+          "title": "ghjgh",
+          "description": "ghjghj",
+          "status": "Todo",
+          "taskId": 31126428
+        },
+        {
+          "title": "rtytyy",
+          "description": "yrrtyrtyy",
+          "status": "Todo",
+          "taskId": 84085462
+        },
+        {
+          "title": "gfdgdf",
+          "description": "gdfgdfg",
+          "status": "Todo",
+          "taskId": 82304826
+        }
+      ]
+    }
+  ]
+}
